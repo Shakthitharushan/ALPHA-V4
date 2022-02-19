@@ -32,7 +32,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@CTONLINE/ALPHA-Qr-Session?v=1)
 
 ### Deploy Page
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Shakthitharushan?tab=repositories)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Shakthitharushan/ALPHA-V4)
 </div>
 
 ----
